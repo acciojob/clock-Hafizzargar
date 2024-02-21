@@ -18,7 +18,7 @@ function display(){
     let min=date.getMinutes();
     let sec=date.getSeconds();
     // let h1=hour();
-    d1.innerText=`${mss(mon)}/${mss(d11)}/${year} ,${hou(hour)}:${mss(min)}:${mss(sec)} ${am}`;
+    d1.innerText=`${mss(mon)}/${mss(d11)}/${year}, ${hou(hour)}:${mss(min)}:${mss(sec)} ${am}`;
     clockdisplay.innerText=``;
 
 
