@@ -1,6 +1,6 @@
 //your JS code here. If required.
-let clockdisplay=document.getElementById("clockdisplay");
-let d1=document.getElementById("date");
+let d1=document.getElementById("timer");
+
 
 function display(){
     let date=new Date();
